@@ -1,0 +1,1 @@
+This folder holds all of my completed assignments From Thinkful Software Engineering Bootcamp
